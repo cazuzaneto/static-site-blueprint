@@ -1,4 +1,4 @@
-#static-site-blueprint
+# static-site-blueprint
 
 
 ## TODO List
