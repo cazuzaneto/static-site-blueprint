@@ -1,4 +1,4 @@
-# static-site-blueprint
+# Static Site Blueprint
 
 I don't have much affinity for front end development, but as a software craftsman, I understand that we all have to devote some effort to developing full stack skills. So I created this project to challenge myself to develop minimal front end knowledge.
 
